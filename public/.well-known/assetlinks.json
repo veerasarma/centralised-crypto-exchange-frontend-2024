@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.coinbank",
+      "sha256_cert_fingerprints": [
+        "C6:6F:3F:C7:43:A1:F7:C5:68:12:2F:FD:D9:19:1B:43:5A:2D:70:BB:1D:88:25:16:E7:67:14:DF:C3:31:EF:12"
+      ]
+    }
+  }
+]
